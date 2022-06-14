@@ -1,0 +1,11 @@
+--2022-06-13 22:00:29--  https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F351967.jpg
+Resolving imagesvc.meredithcorp.io (imagesvc.meredithcorp.io)... 99.84.37.128, 99.84.37.23, 99.84.37.59, ...
+Connecting to imagesvc.meredithcorp.io (imagesvc.meredithcorp.io)|99.84.37.128|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 12817 (13K) [image/jpeg]
+Saving to: ‘cheeseburger.jpg’
+
+cheeseburger.jpg                0%[                                                  ]       0  --.-KB/s               cheeseburger.jpg              100%[=================================================>]  12.52K  --.-KB/s    in 0s      
+
+2022-06-13 22:00:30 (327 MB/s) - ‘cheeseburger.jpg’ saved [12817/12817]
+
